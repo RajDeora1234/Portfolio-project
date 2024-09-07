@@ -10,7 +10,7 @@ const data = [
         image: IMG1,
         title: "Food-recipe",
         github: "https://github.com/RajDeora1234",
-        demo: "https://rajdeoranitw.github.io/Food-recipe/"
+        demo: "https://rajdeora1234.github.io/Food-Recipe/"
     },
 
     {
